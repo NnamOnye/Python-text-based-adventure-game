@@ -1,4 +1,4 @@
-Class decription
+class de_scription
 {
   "a textbased game using python...";
   "any input/addition is appreciated...";
